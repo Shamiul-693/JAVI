@@ -61,6 +61,7 @@ Bot: - 1.2 FINANCIAL  POLICY  OBJECTIVES AND STRA TEGIES
 The presentation and preparation of the Territory’s Budget is provided for in sections 11 and
 11A of the Financial Management Act 1996  (the Act) (Page 1)
 ```
+<img width="938" height="144" alt="1" src="https://github.com/user-attachments/assets/6b02e359-96de-405d-8718-872d419d2d8b" />
 
 Expected output:
 ```
@@ -69,14 +70,20 @@ You:  What is the Government’s target for the coverage of accrued superannuati
 Bot: - - The Governm ent ha s a com mitment to fund 90% of accrued 
 superannuation liabilities by 30 June 2040 (Page 5)
 ```
+<img width="747" height="104" alt="2" src="https://github.com/user-attachments/assets/d0e4b0e7-c3ff-4a3b-8963-1a15e619534b" />
 
 Expected output:
 ```
 💬 Financial Policy Chatbot (type 'exit' to quit)
 You:   What is the Government’s target for the measure relating to the maintenance of physical assets?
-Bot: - The Governm ent’s target for this m easure is to dem onstrate and provide for the m aintenance
+Bot: - The Government’s target for this measure is to demonstrate and provide for the maintenance
 of the existing level of physical assets (as at 30 June 2005) (Page 3)
 ```
+<img width="723" height="104" alt="3" src="https://github.com/user-attachments/assets/5cf5306c-eec7-41d1-bced-f598bf92b6f2" />
+
+<img width="747" height="106" alt="4" src="https://github.com/user-attachments/assets/b72323e1-d200-4ae4-864a-4d3d5c9505b6" />
+
+
 
 
 
